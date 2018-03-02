@@ -1,6 +1,6 @@
 # Local Storage & Async Timer
 
-An example repository for learning `setTimeout` and storing state with Local Storage.
+An example repository for learning `setTimeout`, `setInterval`, and storing state with Local Storage.
 
 ## Getting Started
 
